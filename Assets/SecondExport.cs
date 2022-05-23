@@ -10,7 +10,7 @@ public class SecondExport : MonoBehaviour
      private bool takeHiResShot = false;
  
      public static string ScreenShotName(int width, int height) {
-         return string.Format("/Users/bhsfic/SecondCameraOutput/screen_{0}x{1}_{2}.png",  
+         return string.Format("~/SecondCameraOutput/screen_{0}x{1}_{2}.png",  
                               width, height, 
                               System.DateTime.Now.ToString("yyyy-MM-dd_HH-mm-ss"));
      }
