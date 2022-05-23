@@ -53,7 +53,7 @@ all room objects are created and grouped with basic geometries (e.g. cubes, cyli
 -   **MainExport**: a C# script file that controls the "taking picture" behavior of the left LEPD
 -   **SecondExport**: a C# script file that controls the "taking picture" behavior of the right LEPD
 
-## Used Resouces
+## Used Resources
 
 -   for studying the basics of Unity:
     -   Unity Learn: Unity Essentials - Get started with Unity
