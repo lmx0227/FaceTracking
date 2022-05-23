@@ -69,4 +69,3 @@ all room objects are created and grouped with basic geometries (e.g. cubes, cyli
     -   [useful blogs](http://www.walterpalladino.com/adding-an-existing-unity-project-to-github/)
 -   FaceScape Models to Unity Objects
     -   [Unity documentation](https://docs.unity3d.com/Manual/ImportingModelFiles.html)
-    -   
